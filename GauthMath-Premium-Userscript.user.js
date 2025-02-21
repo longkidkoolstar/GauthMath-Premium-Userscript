@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         GauthMath Premium Unlocker
 // @namespace    github.com/longkidkoolstar
-// @version      1.0
+// @version      1.0.1
 // @description  Unlock premium features on GauthMath with this userscript. Enter your premium key to access exclusive content and solutions.
 // @author       longkidkoolstar
 // @match        https://www.gauthmath.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gauthmath.com
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
